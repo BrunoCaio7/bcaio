@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'minhafonte';
+    src: url('fontes/Urban\ Black.otf');
+
+}
+
+body {
+  background-color: darkseagreen;
+}
+
+h1{
+    font-family:'minhafonte';
+    color:black;
+    text-align: center;
+    font-size:40px;
+    
+    
+}
+p{
+    font-size: 20x;
+    color:rgb(148, 81, 81);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color:blue;
+    text-align:center;
+    font-size: 35px;
+}
+.tituloparagrafo {
+    color: green;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#especial {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+
